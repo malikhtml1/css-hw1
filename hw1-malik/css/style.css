@@ -1,0 +1,52 @@
+
+body { font-family: 'Roboto', 'Helvetica', Arial, 'Trebuchet MS', sans-serif;
+       font-size: 115%;
+    
+
+}
+
+header { background-color: rgb(212, 212, 212);
+    font-style: italic;
+         
+
+}
+
+nav { background-color: rgb(182, 214, 227); 
+   
+
+    
+ }
+
+ main { background-color: rgb(255, 255, 84);
+ 
+
+ }
+
+ h1 { font-family: 'Roboto', 'Trebuchet MS', sans-serif;
+      text-align: center;
+      color: rgb(4, 0, 133);
+      margin-bottom: 20px;
+      margin-top: 20px;
+
+ }
+
+
+li { display: inline;
+    padding: 20px;
+}
+
+
+p { line-height: 150%;
+       
+
+}
+
+footer { background-color:  rgb(212, 212, 212);
+    font-size: small;
+    font-weight: 400;
+    text-align: center;
+
+}
+
+
+
